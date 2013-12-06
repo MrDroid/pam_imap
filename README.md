@@ -12,7 +12,9 @@ The original module itself is unmaintained, the purpose of this repository is to
 libpam0g-dev
 build-essentials
 gcc
+libssl
 make
+libcrypto
 etc
 ```
 
