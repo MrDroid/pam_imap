@@ -24,6 +24,7 @@ These will be different depending on your distro.
 ```
 git clone https://github.com/MrDroid/pam_imap/
 cd pam_imap
+chmod +x *
 ./configure
 make clean
 make
